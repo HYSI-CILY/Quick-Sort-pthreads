@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/haoying/Documents/Projets/Eval/algo_mix/library.c
+stdio.h
+-
+stdlib.h
+-
+pthread.h
+-
+omp.h
+-
+
