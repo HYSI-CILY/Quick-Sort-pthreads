@@ -1,2 +1,0 @@
-/usr/bin/ar qc libalgo_mix.a CMakeFiles/algo_mix.dir/library.c.o
-/usr/bin/ranlib libalgo_mix.a
